@@ -1,2 +1,2 @@
-from .Console import ConsoleControl, getGetch
+from .console import ConsoleControl, getGetch
 
